@@ -1,0 +1,35 @@
+[
+  {
+    "title": "MY Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "Creative developer skilled in crafting innovative web solutions with expertise in React, JavaScript,& more.",
+    "skills": ["React", "JavaScript", "HTML/CSS"],
+    "demo": "https://quiz-app-react-mu-rouge.vercel.app/",
+    "source": "https://www.github.com/niranjan453"
+  },
+  {
+    "title": "QUIZ-APP",
+    "imageSrc": "projects/Quizapp.png",
+    "description": "This is a project made to learn the latest languages like React, javaScript by building an app.",
+    "skills": ["React", "JavaScript", "HTML/CSS"],
+    "demo": "https://quiz-app-react-mu-rouge.vercel.app/",
+    "source": "https://www.github.com/niranjan453"
+  },
+  {
+    "title": "Tic_Toc_Toe game",
+    "imageSrc": "projects/tictoctoe1.png",
+    "description": "This is a project made to learn the latest languages like JavaScript, HTML and css by building the game.",
+    "skills": ["JavaScript", "HTML", "CSS" ],
+    "demo": "https://tic-toc-toe-rust.vercel.app/",
+    "source": "https://www.github.com/niranjan453"
+  },
+  {
+    "title": "Basic-Calculator",
+    "imageSrc": "projects/calculator.png",
+    "description": "This is a project made to learn the languages like HTML, CSS and JavaScript by building the Calculator.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://basic-calculator-orpin.vercel.app/",
+    "source": "https://www.github.com/niranjan453"
+  }
+
+]
